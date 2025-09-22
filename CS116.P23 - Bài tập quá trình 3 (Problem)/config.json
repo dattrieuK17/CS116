@@ -1,0 +1,15 @@
+{
+    "title": "CS116 - Lab 3 - Tiền xử lý dữ liệu - Data Transformation (đã cập nhật)",
+    "evaluation_criteria": "jupyter_notebook",
+    "docker_image": "python-ml",
+    "queue_type": "light",
+    "log_fields": "Container Initialization\r\nExecution & Evaluation\r\nResource Cleanup",
+    "root_size": 6,
+    "cpu_limit": 4,
+    "memory_limit": 1024,
+    "time_limit": 128,
+    "internet_access_permitted": false,
+    "output_access_permitted": true,
+    "sort_order": true,
+    "bind_mounts": ""
+}
